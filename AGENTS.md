@@ -1,0 +1,3 @@
+## Task Delegation
+
+Delegate tasks when it accelerates the work or provides a useful, independent check. Use an `explorer` for research, a `worker` for implementation and diagnostics, a `reviewer` for independent review, and a `verifier` to conduct checks. Handle small, sequential tasks yourself. Do not automatically trigger a reviewer or verifier for every change; select checks based on complexity and risk. Independent tasks can be performed in parallel. Keep project instructions and the constraints of the current session in mind. Review the agents' results before providing your final response.
