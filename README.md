@@ -6,7 +6,7 @@ A local, editable adaptation of [copilot-agentic-workflows](https://github.com/A
 
 - `AGENTS.md`: proposed global communication and delegation instructions.
 - `agents/`: Codex agent TOML files. The default routing uses `explorer` (Luna), `worker` (Terra), `reviewer` (Sol), and `verifier` (Luna). `planner` and `debugger` remain optional specialists for explicit use.
-- `skills/`: 11 adapted or imported workflow and engineering skills.
+- `skills/`: 10 adapted or imported workflow and engineering skills.
 
 Models and reasoning levels are starting points. Choose identifiers available in your Codex account and validate them with real tasks. Delegation depends on the client, applicable instructions, and current session permissions; instructions do not guarantee an agent will be invoked. Codex-specific behavior follows [the official subagent documentation](https://learn.chatgpt.com/docs/agent-configuration/subagents).
 
